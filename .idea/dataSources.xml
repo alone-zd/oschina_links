@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="oschina_urls@localhost" uuid="97cc2a06-df7e-4a31-b004-2d78d3eb3341">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/oschina_urls</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="default" uuid="442f79ad-be76-4d0c-bb45-be8188e9eca6">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\weburls\oschina\oschina\spiders\dbs\default.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
